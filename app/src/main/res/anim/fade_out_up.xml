@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+     <!-- 定义从you向zuo进入的动画 -->  
+    <translate  
+        android:duration="350"
+        android:fromYDelta="0"
+        android:toYDelta="100%" />
+
+</set>

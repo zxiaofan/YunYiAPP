@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:gravity="center_vertical"
+    android:background="#1D1D1D"
+    >
+
+    <ImageView
+        android:id="@+id/notificationImage"
+        android:layout_width="46dp"
+        android:layout_height="46dp"
+        android:src="@mipmap/desk" />
+
+    <TextView
+        android:id="@+id/progress_percent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/notificationImage"
+        android:layout_alignTop="@id/notificationImage"
+        android:paddingLeft="8dp"
+        android:paddingTop="8dp"
+        android:text="111111"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/progress_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/progress_percent"
+        android:layout_alignTop="@id/notificationImage"
+        android:paddingLeft="8dp"
+        android:paddingTop="8dp"
+        android:text="222222"
+        android:textColor="@color/white" />
+
+    <ProgressBar
+        android:id="@+id/progress"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_alignLeft="@+id/progress_percent"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/progress_percent"
+        android:layout_alignBottom="@id/notificationImage"
+        android:layout_width="wrap_content"
+        android:layout_height="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp" />
+
+</RelativeLayout>

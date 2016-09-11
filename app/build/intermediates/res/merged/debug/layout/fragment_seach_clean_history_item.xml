@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/clean_history_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="40dp"
+    android:gravity="center_horizontal" 
+    android:background="@drawable/menu_info_selector">
+
+    <TextView
+        android:id="@+id/tv_clear_search_history"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:gravity="center"
+        android:text="清除历史"
+        android:textSize="14sp"
+        android:textColor="@color/white" />
+
+</RelativeLayout>

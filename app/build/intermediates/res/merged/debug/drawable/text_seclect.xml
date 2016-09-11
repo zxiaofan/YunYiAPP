@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Item state 顺序：条件限定越细致，则应该放到前面, state list中第一个匹配当前状态的item会被使用。 -->
+    <!-- 非触摸模式下获得焦点并单击时的背景图片 -->
+    <!--<item android:state_focused="true" android:state_pressed="true" android:color="#ffffffff"/>-->
+    <!--&lt;!&ndash; 触摸模式下获得焦点并单击时的背景图片 &ndash;&gt;-->
+    <item  android:state_pressed="true" android:color="#ffffffff" />
+    <!--&lt;!&ndash; 选中模式时的背景图片 &ndash;&gt;   -->
+    <!--<item android:state_selected="true" android:color="#ffffffff"/>-->
+    <!--&lt;!&ndash; 获得焦点时背景图片 &ndash;&gt;-->
+    <!--<item android:state_focused="true" android:color="#000000"/>-->
+    <!--&lt;!&ndash; 没有焦点时的背景 &ndash;&gt;-->
+    <item android:state_window_focused="false" android:color="#000000"/>
+    <!-- 默认背景 -->
+    <item android:color="#000000"/>
+</selector>
+

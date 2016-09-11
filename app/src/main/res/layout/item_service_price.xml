@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:text="¥1.00元"
+            android:id="@+id/textView27"
+            android:textColor="#333333"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp" />
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:text="人次/日 "
+            android:id="@+id/textView33"
+            android:textColor="#333333"
+            android:layout_marginLeft="22dp"
+            android:layout_marginStart="22dp"
+            android:layout_above="@+id/textView35"
+            android:layout_toRightOf="@+id/textView27"
+            android:layout_toEndOf="@+id/textView27" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:text="静脉曲张定位定压治疗"
+            android:textSize="16sp"
+            android:layout_marginBottom="2dp"
+            android:textColor="#333333"
+            android:id="@+id/textView34"
+            android:layout_above="@+id/textView27"
+            android:layout_alignLeft="@+id/textView27"
+            android:layout_alignStart="@+id/textView27" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:text="说明：敷料费另收"
+            android:textColor="#333333"
+            android:id="@+id/textView35"
+            android:layout_below="@+id/textView27"
+            android:layout_alignLeft="@+id/textView27"
+            android:layout_alignStart="@+id/textView27" />
+    </RelativeLayout>
+
+</LinearLayout>

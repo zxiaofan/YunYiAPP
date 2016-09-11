@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="5dp"
+    app:cardCornerRadius="5dp"
+    app:elevation="1dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="5"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_titles"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"
+                android:text="急性阑尾炎"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/tv_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:text="中国人民解放军医院  普通外科"
+                android:textSize="15sp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginBottom="5dp">
+
+                <TextView
+                    android:id="@+id/tv_fyd"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="费用单"
+                    android:textSize="13sp"
+                    android:background="@drawable/record_bg_border_style"
+                    android:textColor="#2ec075" />
+
+                <TextView
+                    android:id="@+id/tv_cfd"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="处方单"
+                    android:textSize="13sp"
+                    android:background="@drawable/record_bg_border_style"
+                    android:textColor="#2ec075" />
+
+                <TextView
+                    android:id="@+id/tv_jyd"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="检验单"
+                    android:textSize="13sp"
+                    android:background="@drawable/record_bg_border_style"
+                    android:textColor="#2ec075" />
+
+                <TextView
+                    android:id="@+id/tv_jcd"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="检查单"
+                    android:textSize="13sp"
+                    android:background="@drawable/record_bg_border_style"
+                    android:textColor="#2ec075" />
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="1dp"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@color/bg_layout_line"></TextView>
+
+            <TextView
+                android:id="@+id/tv_date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="2016/03/21" />
+        </RelativeLayout>
+
+
+    </LinearLayout>
+</android.support.v7.widget.CardView>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="zhicheng">
+        <item>主任医师</item>
+        <item>副主任医师 </item>
+        <item>主治医师</item>
+        <item>医师</item>
+        <item>医士</item>
+    </string-array>
+    <string-array name="sex">
+
+        <item>男</item>
+        <item>女</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:gravity="center_vertical"
+    android:background="@color/white"
+    android:layout_marginTop="10dp"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/iv_news_img"
+        android:layout_marginLeft="10dp"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:src="@mipmap/zixun_01"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="7个有益于心血管健康的生活习惯或指标"/>
+
+        <TextView
+            android:id="@+id/tv_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:maxLines="2"
+            android:text="①不吸烟；②经常运动；③维持血压正常；④维持血糖正常；⑤维持血脂正常；⑥保持体重正常；⑦健康和均衡饮食。分析结果显示，做到6个或以上的人，比只做到1个或以下的人，全因死亡率风险要低51％，其中死于心血管疾病的风险低76％，死于缺血性心脏病的风险低70％。另外，死于癌症的风险也较低。"/>
+
+    </LinearLayout>
+</LinearLayout>

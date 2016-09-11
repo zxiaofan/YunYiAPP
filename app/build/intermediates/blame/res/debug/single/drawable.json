@@ -1,0 +1,378 @@
+[
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_edittext_shape.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\search_edittext_shape.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\registered_history_item_border.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\registered_history_item_border.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_home_normal.png",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\ic_tab_home_normal.png"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yueyue.png",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\yueyue.png"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_btn_submit_false.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\login_btn_submit_false.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\table_btn_shape_no.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\table_btn_shape_no.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_btn_register_false.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\login_btn_register_false.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\patient_sele_true_style.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\patient_sele_true_style.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_info_selector.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\menu_info_selector.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\man.png",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\man.png"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\expandablelistview_change.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\expandablelistview_change.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete.png",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\delete.png"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user_ic.png",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\user_ic.png"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_btn_submit.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\login_btn_submit.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\department_item_one_false.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\department_item_one_false.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\department_item_one_true.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\department_item_one_true.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tesekeshi.png",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\tesekeshi.png"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_find_b.png",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\ic_tab_find_b.png"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hui_discount_item_rule_arrow.png",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\hui_discount_item_rule_arrow.png"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zhuanjia.png",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\zhuanjia.png"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_user_normal.png",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\ic_tab_user_normal.png"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_clear_pressed.png",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\search_clear_pressed.png"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_friends_b.png",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\ic_tab_friends_b.png"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fab_background.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\drawable\\fab_background.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\registered_submit.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\registered_submit.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\left_arrow.png",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\left_arrow.png"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\table_btn_shape_yes.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\table_btn_shape_yes.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\guide_01.png",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\guide_01.png"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\table_border.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\table_border.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_home_press.png",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\ic_tab_home_press.png"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\subscribe_item_text_color.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\subscribe_item_text_color.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\girl.png",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\girl.png"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w2.png",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\w2.png"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\person_default.png",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\person_default.png"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\snackbar_background.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\drawable\\snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\guide_02.png",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\guide_02.png"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\subscribe_pressed.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\subscribe_pressed.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_noon.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\btn_noon.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\record_bg_border_style.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\record_bg_border_style.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back_num_btn_style.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\back_num_btn_style.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\deal_detail_btn.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\deal_detail_btn.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toast_bg.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\toast_bg.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jiuyidaohang.png",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\jiuyidaohang.png"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_user_press.png",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\ic_tab_user_press.png"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back_no_btn.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\back_no_btn.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_search_bg.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\btn_search_bg.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\feedback_et_style.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\feedback_et_style.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_icon.png",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\search_icon.png"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\patient_sele_style.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\patient_sele_style.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w1.png",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\w1.png"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\patient_sele_false_style.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\patient_sele_false_style.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_btn_submit_true.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\login_btn_submit_true.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\guide_03.png",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\guide_03.png"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_clear_normal.png",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\search_clear_normal.png"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_seclect.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\text_seclect.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\subscribe_no_pressed.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\subscribe_no_pressed.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\myphoto.png",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\myphoto.png"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_capture_video_normal.png",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\ic_capture_video_normal.png"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\department_item_one.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\department_item_one.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_close_bg_normal.png",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\bmob_update_close_bg_normal.png"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lv_search_tips_bg.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\lv_search_tips_bg.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\record_people_bg.png",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\record_people_bg.png"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_dotted_line.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\shape_dotted_line.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_right.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\arrow_right.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\et.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\et.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_delete_bg.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\iv_delete_bg.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_bottom_border.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\main_bottom_border.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rl_back_press.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\rl_back_press.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\guidance_skip.png",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\guidance_skip.png"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\deal_detail_btn_style.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\deal_detail_btn_style.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_find_a.png",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\ic_tab_find_a.png"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rl_back_press_shape.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\rl_back_press_shape.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_btn_register.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\login_btn_register.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_friends_a.png",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\drawable\\ic_tab_friends_a.png"
+    }
+]

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:id="@+id/button"
+            android:textColor="#333333"
+            android:layout_marginRight="36dp"
+            android:paddingTop="20dp"
+            android:layout_marginEnd="36dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:text="四川大学华西医院"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:id="@+id/textView21"
+            android:layout_marginStart="12dp"
+            android:layout_alignTop="@+id/button"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="成都市"
+            android:textColor="#333333"
+            android:textSize="13sp"
+            android:id="@+id/textView22"
+            android:layout_below="@+id/textView21"
+            android:layout_alignLeft="@+id/textView21"
+            android:layout_alignStart="@+id/textView21" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#333333"
+            android:textSize="13sp"
+            android:layout_marginLeft="5dp"
+            android:text="三级甲等"
+            android:id="@+id/textView25"
+            android:layout_alignBottom="@+id/textView22"
+            android:layout_toRightOf="@+id/textView22"
+            android:layout_toEndOf="@+id/textView22" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#333333"
+            android:textSize="13sp"
+            android:layout_marginLeft="5dp"
+            android:text="口腔医院"
+            android:id="@+id/textView26"
+            android:layout_alignBottom="@+id/textView25"
+            android:layout_toRightOf="@+id/textView25"
+            android:layout_toEndOf="@+id/textView25" />
+
+
+    </RelativeLayout>
+
+</LinearLayout>

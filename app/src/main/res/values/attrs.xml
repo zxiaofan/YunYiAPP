@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GifView">
+        <attr name="gif" format="reference" />
+        <attr name="paused" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="CustomTheme">
+        <attr name="gifViewStyle" format="reference" />
+    </declare-styleable>
+    <!-- 自定义属性,format属性表示该属性的单位 -->
+    <declare-styleable name="TitleBarLayout">
+        <!-- title文字内容 -->
+        <attr name="titleText" format="string"/>
+        <!-- title文字颜色 -->
+        <attr name="titleTextColor" format="color"/>
+        <!-- title文字大小 -->
+        <attr name="titleTextSize" format="dimension"/>
+        <!-- 左边图片 -->
+        <attr name="leftImage" format="reference" />
+        <!-- 右边第一个图片 -->
+        <attr name="rightImageOne" format="reference|color" />
+        <!-- 右边第二个图片 -->
+        <attr name="rightImageTwo" format="reference|color" />
+        <!-- 右侧文字内容 -->
+        <attr name="rightText" format="string"/>
+        <!-- 文字颜色 -->
+        <attr name="rightTextColor" format="color"/>
+        <!--文字大小 -->
+        <attr name="rightTextSize" format="dimension"/>
+    </declare-styleable>
+</resources>

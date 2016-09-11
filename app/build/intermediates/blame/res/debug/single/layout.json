@@ -1,0 +1,718 @@
+[
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main1.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_main1.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\index_hoslist1.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\index_hoslist1.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_user.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_my_user.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_service_price.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\item_service_price.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_spinner.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\item_spinner.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addcard.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\addcard.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sele_patient_window.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\sele_patient_window.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jyd_first_detail_item.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\jyd_first_detail_item.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jbzz_view.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\jbzz_view.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading_page.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\loading_page.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_doc_card.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_my_doc_card.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_department_registered.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_department_registered.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jbzz_zbhgjtt.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\jbzz_zbhgjtt.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_patient_info.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_patient_info.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jbzz_houlongt.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\jbzz_houlongt.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_province.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\main_province.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_snackbar_include.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_report_query.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_report_query.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_special_department.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_special_department.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_member_item.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_group_member_item.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_tesekeshi.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\item_tesekeshi.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_expert_introduction.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_expert_introduction.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_layout.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\search_layout.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_see_doc_detail_cfd.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_see_doc_detail_cfd.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_find_hospital.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_find_hospital.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_seach_list_item.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\fragment_seach_list_item.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_yuyuedoctor.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\item_yuyuedoctor.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_department_information.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_department_information.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\see_doc_detail_jcd_item.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\see_doc_detail_jcd_item.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\a_jbzz_view.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\a_jbzz_view.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change_password.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cfd_detail_item.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\cfd_detail_item.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\index_home_list5.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\index_home_list5.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\call_number_list_item.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\call_number_list_item.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_hospitals.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\frag_hospitals.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_medical_records.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_medical_records.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toast_xml.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\toast_xml.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jbzz_yaotong.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\jbzz_yaotong.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sousuo1.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\sousuo1.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_news_list.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\home_news_list.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_talk.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\frag_talk.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about_us.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_user.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\frag_user.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_card.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_my_card.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_icon.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_title.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\custom_title.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_doctoryuyue1.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\item_doctoryuyue1.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_drug_price.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_drug_price.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jbzz_smmct.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\jbzz_smmct.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog_progress.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\alert_dialog_progress.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_see_doc_detail_jcd.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_see_doc_detail_jcd.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_chufang2.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\item_chufang2.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jbzz.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_jbzz.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_see_doc_detail_dzbl.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\fragment_see_doc_detail_dzbl.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guid_one.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_guid_one.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_footer.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\listview_footer.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_personal_detail.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_personal_detail.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tianjiajiuzhenren.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\tianjiajiuzhenren.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\index_home_list4.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\index_home_list4.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_report_query_jcbg.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_report_query_jcbg.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_news_list_item.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\home_news_list_item.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\doc_card_lists_item.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\doc_card_lists_item.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_snackbar.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\departmnet_one_item.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\departmnet_one_item.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_jiaohaogenzong.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\item_jiaohaogenzong.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pup_listview.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\pup_listview.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_text.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\medical_navi_list_item.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\medical_navi_list_item.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_unread_messages.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_unread_messages.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\index_my_list2.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\index_my_list2.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_deal_detail.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_deal_detail.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sele_patient_window_item.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\sele_patient_window_item.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\it_keshixinxi.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\it_keshixinxi.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\index_my_list1.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\index_my_list1.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\groups.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\groups.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registered_success.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_registered_success.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_record_rl_listitem.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\my_record_rl_listitem.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_find_doc_detail.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_find_doc_detail.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hospital_navigation.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_hospital_navigation.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_jiuzhenren.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\item_jiuzhenren.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registered_detail.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_registered_detail.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_home.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\frag_home.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_user.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_edit_user.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_hos_card.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_add_hos_card.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registered_main.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_registered_main.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\registered_history_list_item.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\registered_history_list_item.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fee_detail_child_item.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\fee_detail_child_item.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_doctoryuyue.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\item_doctoryuyue.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jbzz_toutong.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\jbzz_toutong.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_message.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\item_message.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_haoyuan.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\item_haoyuan.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_drug_price.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\item_drug_price.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_medical_navi_detail.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_medical_navi_detail.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_procince.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_new_procince.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jbzz_main.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\jbzz_main.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_outpatients.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_my_outpatients.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jbzz_xinji.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\jbzz_xinji.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jyd_detail_item.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\jyd_detail_item.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_medical_navigation.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_medical_navigation.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_frag__news.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_frag__news.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_findhos.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\item_findhos.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jbzz_bianmi.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\jbzz_bianmi.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\card1.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\card1.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome_guide.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_welcome_guide.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_talk_head_vew.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\frag_talk_head_vew.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\myoutpatients_list_item.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\myoutpatients_list_item.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jbzz_bisai.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\jbzz_bisai.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_yiliaofeiyong1.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\item_yiliaofeiyong1.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_seach_clean_history_item.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\fragment_seach_clean_history_item.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\new_procince_list_header.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\new_procince_list_header.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_medical_expenses.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_medical_expenses.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guid_three.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_guid_three.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\index_home_list6.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\index_home_list6.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jbzz_gpttnx.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\jbzz_gpttnx.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feed_back.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_feed_back.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_find_doc.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_find_doc.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registered_history.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_registered_history.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_user.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_add_user.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_see_doc_detail.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_see_doc_detail.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\channel_item.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\channel_item.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guid_two.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_guid_two.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jbzz_kesou.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\jbzz_kesou.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_price_search.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_price_search.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_personal_information.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_personal_information.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_news_fragment.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_news_fragment.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tracking_station.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_tracking_station.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_chufang1.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\item_chufang1.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_report_query_jybg.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_report_query_jybg.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_mycard.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\item_mycard.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\childs.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\childs.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_see_doc_detail_jyd.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_see_doc_detail_jyd.xml"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\yuyuetime.xml",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\layout\\yuyuetime.xml"
+    }
+]

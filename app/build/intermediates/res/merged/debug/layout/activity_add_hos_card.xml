@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.zxiaofan.yunyi.User.AddHosCard">
+    <util.TitleBarUtils
+        android:id="@+id/titleBar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/bigButtonHeight" >
+    </util.TitleBarUtils>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <EditText
+            android:id="@+id/et_hosname"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:paddingLeft="10dp"
+            android:background="@drawable/et"
+            android:hint="医院名字"
+            android:enabled="false"
+            android:layout_margin="10dp"
+            />
+        <EditText
+            android:id="@+id/et_cardid"
+            android:layout_margin="10dp"
+            android:paddingLeft="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:hint="就医卡号"
+            android:background="@drawable/et"
+            android:layout_below="@+id/et_hosname"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+           android:textSize="14sp"
+            android:textColor="@color/black"
+            android:text="▼"
+            android:layout_marginRight="10dp"
+            android:id="@+id/textView63"
+            android:layout_alignBaseline="@+id/et_hosname"
+            android:layout_alignBottom="@+id/et_hosname"
+            android:layout_alignRight="@+id/et_hosname"
+            android:layout_alignEnd="@+id/et_hosname" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:textSize="13sp"
+            android:text="• 温馨提示：绑定就医卡后可以查询消费明细，请正确填写就医卡号。"
+            android:id="@+id/textView64"
+            android:layout_below="@+id/et_cardid"
+            android:layout_centerHorizontal="true" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="#2EC075"
+           android:layout_margin="10dp"
+            android:textColor="@color/white"
+            android:textSize="14sp"
+            android:text="绑定就医卡"
+            android:id="@+id/button5"
+            android:layout_below="@+id/textView64"
+            android:layout_centerHorizontal="true" />
+
+
+    </RelativeLayout>
+
+
+
+
+</LinearLayout>

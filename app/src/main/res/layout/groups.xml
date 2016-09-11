@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textGroup"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:paddingLeft="40px"
+            android:paddingTop="6px"
+            android:paddingBottom="6px"
+            android:textSize="25sp"
+            android:text="No data"
+            android:textColor="@android:color/holo_blue_light"
+            />
+
+</LinearLayout>

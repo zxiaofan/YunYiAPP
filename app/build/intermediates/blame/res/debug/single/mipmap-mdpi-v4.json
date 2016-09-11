@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\desk.png",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\mipmap-mdpi\\desk.png"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

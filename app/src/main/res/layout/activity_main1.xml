@@ -1,0 +1,97 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+     >
+    <util.TitleBarUtils
+        android:id="@+id/titleBar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/bigButtonHeight" >
+    </util.TitleBarUtils>
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:orientation="horizontal" >
+
+        <EditText
+            android:id="@+id/auto_edit"
+            android:layout_margin="5dp"
+            android:paddingLeft="5dp"
+
+            android:background="@drawable/et"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:ems="15" >
+
+            <requestFocus />
+        </EditText>
+
+        <ImageView
+            android:id="@+id/ivDeleteText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true"
+            android:paddingRight="50dp"
+            android:src="@drawable/delete"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/search_button"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="5dp"
+            android:background="@android:color/darker_gray"
+            android:gravity="center_vertical"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:text="搜索" />
+    </RelativeLayout>
+    <TextView
+        android:id="@+id/thos"
+        android:layout_width="match_parent"
+        android:background="#F2F2F2"
+        android:text="医院（共搜索到N条结果）"
+        android:textSize="16sp"
+        android:textColor="@color/black"
+        android:layout_marginLeft="5dp"
+        android:gravity="center_vertical"
+        android:layout_height="40dp" />
+
+    <ListView
+        android:id="@+id/auto_listview"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:layout_below="@+id/relativeLayout1"
+        android:layout_centerHorizontal="true" >
+    </ListView>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#F2F2F2"
+        />
+    <TextView
+        android:id="@+id/gengduo"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:background="@color/white"
+        android:text="点击查看更多相关医院"
+        android:textSize="16sp"
+        android:textColor="#333333"
+        />
+    <include layout="@layout/sousuo1"/>
+
+</LinearLayout>

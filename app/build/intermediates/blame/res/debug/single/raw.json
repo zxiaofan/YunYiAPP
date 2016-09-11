@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\raw\\mydatastring.txt",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\raw\\mydatastring.txt"
+    },
+    {
+        "merged": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\raw\\progress_loading.gif",
+        "source": "E:\\Workspaces\\AndroidProjects\\YunYiAPP\\app\\src\\main\\res\\raw\\progress_loading.gif"
+    }
+]

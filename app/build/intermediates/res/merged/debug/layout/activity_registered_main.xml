@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.zxiaofan.yunyi.registered.RegisteredMain">
+
+    <util.TitleBarUtils
+        android:id="@+id/titleBar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/bigButtonHeight"></util.TitleBarUtils>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/min_city"
+            style="@style/personalRelativeLayoutSetting">
+
+            <ImageView
+                android:id="@+id/iv_loc"
+                style="@style/personalRelativeLayoutIvOneSetting"
+                android:src="@mipmap/registered_loc" />
+
+            <TextView
+                android:id="@+id/tv_loc"
+                style="@style/personalRelativeLayoutTvSetting"
+                android:layout_toRightOf="@+id/iv_loc"
+                android:text="成都市" />
+
+            <ImageView style="@style/personalRelativeLayoutIvTwoSetting" />
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="#e4e4e4"/>
+        <RelativeLayout
+            android:id="@+id/min_hospital"
+            style="@style/personalRelativeLayoutSetting">
+
+            <ImageView
+                android:id="@+id/iv_hospital"
+                style="@style/personalRelativeLayoutIvOneSetting"
+                android:src="@mipmap/registered_home" />
+
+            <TextView
+                android:id="@+id/tv_hospital"
+                style="@style/personalRelativeLayoutTvSetting"
+                android:layout_toRightOf="@+id/iv_hospital"
+                android:text="成都市华西医院" />
+
+            <ImageView style="@style/personalRelativeLayoutIvTwoSetting" />
+        </RelativeLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="#e4e4e4"/>
+        <RelativeLayout
+            android:id="@+id/min_sjwk"
+            style="@style/personalRelativeLayoutSetting">
+
+            <ImageView
+                android:id="@+id/iv_sjwk"
+                style="@style/personalRelativeLayoutIvOneSetting"
+                android:src="@mipmap/registered_sjwk" />
+
+            <TextView
+                android:id="@+id/tv_sjwk"
+                style="@style/personalRelativeLayoutTvSetting"
+                android:layout_toRightOf="@+id/iv_sjwk"
+                android:text="神经外科" />
+
+            <ImageView style="@style/personalRelativeLayoutIvTwoSetting" />
+        </RelativeLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="#e4e4e4"/>
+        <RelativeLayout
+            android:id="@+id/min_date"
+            style="@style/personalRelativeLayoutSetting">
+
+            <ImageView
+                android:id="@+id/iv_date"
+                style="@style/personalRelativeLayoutIvOneSetting"
+                android:src="@mipmap/registered_date" />
+
+            <TextView
+                android:id="@+id/tv_date"
+                style="@style/personalRelativeLayoutTvSetting"
+                android:layout_toRightOf="@+id/iv_date"
+                android:text="2016年6月8日" />
+
+            <ImageView style="@style/personalRelativeLayoutIvTwoSetting" />
+        </RelativeLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="#e4e4e4"/>
+        <RelativeLayout
+            android:id="@+id/min_ptmz"
+            style="@style/personalRelativeLayoutSetting">
+
+            <ImageView
+                android:id="@+id/iv_ptmz"
+                style="@style/personalRelativeLayoutIvOneSetting"
+                android:src="@mipmap/registered_ptmz" />
+
+            <TextView
+                android:id="@+id/tv_ptmz"
+                style="@style/personalRelativeLayoutTvSetting"
+                android:layout_toRightOf="@+id/iv_ptmz"
+                android:text="普通门诊" />
+
+            <ImageView style="@style/personalRelativeLayoutIvTwoSetting" />
+        </RelativeLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="#e4e4e4"/>
+        <Button
+            android:id="@+id/btn_submit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dip"
+            android:layout_marginTop="10dp"
+            android:enabled="true"
+            android:background="@drawable/registered_submit"
+            android:text="预  约"
+            android:textColor="@color/white" />
+
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_marginTop="5dp"
+        android:layout_height="2dp"
+        android:background="#e4e4e4"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:id="@+id/rl_wdjzr"
+            android:layout_width="0dp"
+            android:gravity="center_horizontal"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_weight="1">
+
+            <ImageView
+                android:id="@+id/iv_wdjzr"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:background="@mipmap/registered_wdjzr" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@+id/iv_wdjzr"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tv_wdjzr_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="我的就诊人"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="就诊人资料管理" />
+
+            </LinearLayout>
+
+
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="#e4e4e4"/>
+
+        <RelativeLayout
+            android:id="@+id/rl_history"
+            android:layout_width="0dp"
+            android:gravity="center_horizontal"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+            <ImageView
+                android:id="@+id/iv_ghls"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:background="@mipmap/registered_ghls" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@+id/iv_ghls"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tv_ghls_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="挂号历史"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="管理预约记录" />
+
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+    <TextView
+        android:layout_width="1dp"
+        android:layout_marginTop="5dp"
+        android:layout_height="match_parent"
+        android:background="#e4e4e4"/>
+</LinearLayout>

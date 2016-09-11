@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <util.TitleBarUtils
+        android:id="@+id/titleBar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/bigButtonHeight" >
+    </util.TitleBarUtils>
+    <view.VerticalScrollView
+        android:scrollbars="none"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+   <include layout="@layout/index_my_list1"/>
+    <View
+        android:background="#F2F2F2"
+        android:layout_width="match_parent"
+        android:layout_height="8dp"/>
+    <include layout="@layout/index_my_list2"/>
+    </LinearLayout>
+    </view.VerticalScrollView>
+
+</LinearLayout>

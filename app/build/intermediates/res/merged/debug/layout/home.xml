@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+   android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/cccc"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+
+        android:layout_above="@+id/ccc"
+        android:layout_alignParentTop="true">
+       </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_above="@+id/ccc"
+        android:background="#cccccc"/>
+    <LinearLayout
+        android:id="@+id/ccc"
+
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+        <LinearLayout
+            android:id="@+id/tab_home"
+
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:background="#F2F2F2"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/tab_home_image"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="5dp"
+                android:layout_weight="1"
+                android:src="@mipmap/u001" />
+
+            <TextView
+                android:id="@+id/tab_home_text"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:gravity="center"
+                android:text="首页"
+                android:textColor="#2fad68"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/tab_hospitals"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:background="#F2F2F2"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/tab_hospital_image"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="5dp"
+                android:layout_weight="1"
+                android:src="@mipmap/u012" />
+
+            <TextView
+                android:id="@+id/tab_hospital_text"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:gravity="center"
+                android:text="医院"
+                android:textColor="#999999"
+                android:textSize="12sp" />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/tab_docters"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:background="#F2F2F2"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/tab_docter"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="5dp"
+                android:layout_weight="1"
+                android:src="@mipmap/u013" />
+
+            <TextView
+                android:id="@+id/tab_docter_text"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:gravity="center"
+                android:text="记录"
+                android:textColor="#999999"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            android:id="@+id/tab_talk"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:background="#F2F2F2"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/tab_find_image"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="5dp"
+                android:layout_weight="1"
+                android:src="@mipmap/u014" />
+
+            <TextView
+                android:id="@+id/tab_find_text"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:gravity="center"
+
+                android:text="资讯"
+
+                android:textColor="#999999"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/tab_user"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:background="#F2F2F2"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/tab_user_image"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="5dp"
+                android:layout_weight="1"
+                android:src="@mipmap/u015" />
+
+            <TextView
+                android:id="@+id/tab_user_text"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:gravity="center"
+                android:text="我的"
+                android:textColor="#999999"
+                android:textSize="12sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

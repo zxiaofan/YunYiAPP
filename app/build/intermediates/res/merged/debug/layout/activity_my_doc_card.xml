@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/general_bg"
+    android:orientation="vertical"
+    tools:context="com.zxiaofan.yunyi.User.MyDocCard">
+    <util.TitleBarUtils
+        android:id="@+id/titleBar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/bigButtonHeight"/>
+
+
+    <widget.RefreshLayout
+        android:id="@+id/refresh"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <ListView
+            android:id="@+id/rl_lists"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+    </widget.RefreshLayout>
+    </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.zxiaofan.yunyi.hospital.HospitalNavigationActivity">
+    <util.TitleBarUtils
+        android:id="@+id/titleBar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/bigButtonHeight" >
+    </util.TitleBarUtils>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/hospital_height"
+        android:gravity="center_vertical"
+        android:paddingLeft="15dp"
+        android:textSize="16sp"
+        android:textColor="#000000"
+        android:text="四川大学华西医院"
+
+        android:id="@+id/texx" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="#F2F2F2"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView9"
+            android:background="@mipmap/dizhi"
+            android:layout_marginTop="51dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="34dp"
+            android:layout_marginStart="34dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="成都市金牛区"
+            android:layout_marginLeft="10dp"
+            android:textColor="#666666"
+            android:textSize="15sp"
+            android:id="@+id/textView38"
+            android:layout_alignBottom="@+id/imageView9"
+            android:layout_toRightOf="@+id/imageView9"
+            android:layout_toEndOf="@+id/imageView9" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="地址："
+            android:id="@+id/textView39"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/textView38"
+            android:layout_alignLeft="@+id/textView38"
+            android:layout_alignStart="@+id/textView38" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView10"
+            android:background="@mipmap/dianhua"
+            android:layout_above="@+id/button2"
+            android:layout_alignLeft="@+id/imageView9"
+            android:layout_alignStart="@+id/imageView9"
+            android:layout_marginBottom="42dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="028-12345678"
+            android:autoLink="email|phone|web"
+            android:layout_marginLeft="10dp"
+            android:textSize="15sp"
+            android:textColor="#666666"
+            android:id="@+id/textView40"
+            android:layout_alignBottom="@+id/imageView10"
+            android:layout_toRightOf="@+id/imageView10"
+            android:layout_toEndOf="@+id/imageView10" />
+
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="开启地图导航"
+            android:background="#FF9000"
+            android:textColor="#FFFFFF"
+            android:id="@+id/button2"
+            android:layout_marginBottom="45dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+
+</LinearLayout>

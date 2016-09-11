@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+
+    android:layout_height="wrap_content">
+    <RelativeLayout
+
+        android:background="@drawable/et"
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="70dp">
+        <View
+            android:layout_width="2dp"
+            android:background="#F2F2F2"
+            android:layout_height="match_parent"
+            />
+
+        <TextView
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+
+            android:text="王明明"
+            android:textColor="#000000"
+            android:id="@+id/textView51"
+            android:layout_gravity="center_vertical"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="19dp"
+            android:layout_marginStart="19dp" />
+        <View
+            android:layout_width="2dp"
+            android:layout_height="match_parent"
+            android:background="#F2F2F2"
+            android:id="@+id/view2"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/textView51"
+            android:layout_toEndOf="@+id/textView51" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="女"
+
+            android:id="@+id/textView52"
+            android:textColor="#333333"
+            android:layout_above="@+id/textView51"
+            android:layout_toRightOf="@+id/view2"
+            android:layout_toEndOf="@+id/view2"
+            android:layout_marginLeft="23dp"
+            android:layout_marginStart="23dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="13699083006"
+            android:layout_marginTop="3dp"
+            android:textColor="#333333"
+            android:id="@+id/textView53"
+            android:layout_alignTop="@+id/textView51"
+            android:layout_alignLeft="@+id/textView52"
+            android:layout_alignStart="@+id/textView52" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_marginTop="3dp"
+            android:text="110110110110110110"
+            android:textColor="#333333"
+            android:id="@+id/textView54"
+            android:layout_below="@+id/textView53"
+            android:layout_alignLeft="@+id/textView53"
+            android:layout_alignStart="@+id/textView53" />
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_marginRight="10dp"
+            android:id="@+id/imageView12"
+            android:src="@drawable/hui_discount_item_rule_arrow"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="29岁"
+            android:layout_marginLeft="20dp"
+            android:textColor="#333333"
+            android:id="@+id/textView55"
+            android:layout_alignBottom="@+id/textView52"
+            android:layout_toRightOf="@+id/textView52"
+            android:layout_toEndOf="@+id/textView52" />
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@mipmap/girl"
+            android:id="@+id/imageView13"
+            android:layout_above="@+id/imageView12"
+            android:layout_toRightOf="@+id/textView55"
+            android:layout_toEndOf="@+id/textView55" />
+    </RelativeLayout>
+
+</LinearLayout>

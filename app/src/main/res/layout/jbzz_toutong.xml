@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TableRow
+            android:id="@+id/tableRow1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal">
+
+            <TextView
+                android:id="@+id/textView65"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="疾病自诊--头痛"
+                android:textColor="@color/blueviolet" />
+
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/textView65"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="疼痛的感觉"
+                android:textColor="@color/blueviolet" />
+
+            <CheckBox
+                android:id="@+id/checkBox1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="2"
+                android:checked="false"
+                android:text="中等" />
+
+            <CheckBox
+                android:id="@+id/checkBox2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="3"
+                android:checked="false"
+                android:text="很疼" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView />
+
+            <CheckBox
+                android:id="@+id/checkBox3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="2"
+                android:checked="false"
+                android:text="搏动性的疼痛" />
+
+            <CheckBox
+                android:id="@+id/checkBox4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="3"
+                android:checked="false"
+                android:text="比较轻微" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/textView66"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="疼痛的部位"
+                android:textColor="@color/blueviolet" />
+
+            <CheckBox
+                android:id="@+id/checkBox5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="2"
+                android:checked="false"
+                android:text="头的一侧" />
+
+            <CheckBox
+                android:id="@+id/checkBox6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="3"
+                android:checked="false"
+                android:text="头的两侧" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView />
+
+            <CheckBox
+                android:id="@+id/checkBox7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="2"
+                android:checked="false"
+                android:text="脸的一侧" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/textView67"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="疼痛的持续时间"
+                android:textColor="@color/blueviolet" />
+
+            <CheckBox
+                android:id="@+id/checkBox8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="2"
+                android:checked="false"
+                android:text="1-2秒钟" />
+
+            <CheckBox
+                android:id="@+id/checkBox9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="3"
+                android:checked="false"
+                android:text="30分钟到一个星期" />
+
+        </TableRow>
+
+        <TableRow>
+
+            <TextView />
+
+            <CheckBox
+                android:id="@+id/checkBox10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="2"
+                android:checked="false"
+                android:text="4-72小时" />
+
+            <CheckBox
+                android:id="@+id/checkBox11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="3"
+                android:checked="false"
+                android:text="少于3小时" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/textView67"
+                android:layout_width="22dp"
+                android:layout_height="wrap_content"
+                android:text="病症在什么情况下会恶化"
+                android:textColor="@color/blueviolet" />
+
+            <CheckBox
+                android:id="@+id/checkBox12"
+                android:layout_width="22dp"
+                android:layout_height="wrap_content"
+                android:layout_column="2"
+                android:checked="false"
+                android:text="疼痛会在正常活动时恶化" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/textView68"
+                android:layout_width="22dp"
+                android:layout_height="wrap_content"
+                android:text="疼痛的其它特征"
+                android:textColor="@color/blueviolet" />
+
+            <CheckBox
+                android:id="@+id/checkBox13"
+                android:layout_width="22dp"
+                android:layout_height="wrap_content"
+                android:layout_column="2"
+                android:checked="false"
+                android:text="疼痛在几小时到几天内变严重" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/textView69"
+                android:layout_width="22dp"
+                android:layout_height="wrap_content"
+                android:text="何种因素可引发此症状"
+                android:textColor="@color/blueviolet" />
+
+            <CheckBox
+                android:id="@+id/checkBox14"
+                android:layout_width="22dp"
+                android:layout_height="wrap_content"
+                android:layout_column="2"
+                android:checked="false"
+                android:text="体内荷尔蒙变化" />
+
+            <CheckBox
+                android:id="@+id/checkBox15"
+                android:layout_width="22dp"
+                android:layout_height="wrap_content"
+                android:layout_column="3"
+                android:checked="false"
+                android:text="睡眠模式" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView />
+
+            <CheckBox
+                android:id="@+id/checkBox38"
+                android:layout_width="22dp"
+                android:layout_height="wrap_content"
+                android:layout_column="2"
+                android:checked="false"
+                android:text="磨牙或咬牙" />
+
+            <CheckBox
+                android:id="@+id/checkBox16"
+                android:layout_width="22dp"
+                android:layout_height="wrap_content"
+                android:layout_column="3"
+                android:checked="false"
+                android:text="精神压力" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView />
+
+            <CheckBox
+                android:id="@+id/checkBox17"
+                android:layout_width="22dp"
+                android:layout_height="wrap_content"
+                android:layout_column="2"
+                android:checked="false"
+                android:text="触碰脸部或进食" />
+
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="22dp"
+                android:layout_height="wrap_content"
+                android:text="何种做法可减轻症状"
+                android:textColor="@color/blueviolet" />
+
+            <CheckBox
+                android:id="@+id/checkBox18"
+                android:layout_width="22dp"
+                android:layout_height="wrap_content"
+                android:layout_column="2"
+                android:checked="false"
+                android:text="多休息" />
+
+            <CheckBox
+                android:id="@+id/checkBox19"
+                android:layout_width="22dp"
+                android:layout_height="wrap_content"
+                android:layout_column="3"
+                android:checked="false"
+                android:text="服用止痛药" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="22dp"
+                android:layout_height="wrap_content"
+                android:text="伴有"
+                android:textColor="@color/blueviolet" />
+
+            <CheckBox
+                android:id="@+id/checkBox20"
+                android:layout_width="22dp"
+                android:layout_height="wrap_content"
+                android:layout_column="2"
+                android:checked="false"
+                android:text="下巴疼痛" />
+
+            <CheckBox
+                android:id="@+id/checkBox21"
+                android:layout_width="22dp"
+                android:layout_height="wrap_content"
+                android:layout_column="3"
+                android:checked="false"
+                android:text="持续性的疲弱或麻木" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView />
+
+            <CheckBox
+                android:id="@+id/checkBox22"
+                android:layout_width="22dp"
+                android:layout_height="wrap_content"
+                android:layout_column="2"
+                android:checked="false"
+                android:text="流鼻涕或鼻塞" />
+
+            <CheckBox
+                android:id="@+id/checkBox23"
+                android:layout_width="22dp"
+                android:layout_height="wrap_content"
+                android:layout_column="3"
+                android:checked="false"
+                android:text="癫痫发作" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView />
+
+            <CheckBox
+                android:id="@+id/checkBox24"
+                android:layout_width="22dp"
+                android:layout_height="wrap_content"
+                android:layout_column="2"
+                android:checked="false"
+                android:text="眼睛剧痛" />
+
+            <CheckBox
+                android:id="@+id/checkBox25"
+                android:layout_width="22dp"
+                android:layout_height="wrap_content"
+                android:layout_column="3"
+                android:checked="false"
+                android:text="突然头晕或失去平衡" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView />
+
+            <CheckBox
+                android:id="@+id/checkBox26"
+                android:layout_width="22dp"
+                android:layout_height="wrap_content"
+                android:layout_column="2"
+                android:checked="false"
+                android:text="视力问题" />
+
+            <CheckBox
+                android:id="@+id/checkBox27"
+                android:layout_width="22dp"
+                android:layout_height="wrap_content"
+                android:layout_column="3"
+                android:checked="false"
+                android:text="躁动或烦躁" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView />
+
+            <CheckBox
+                android:id="@+id/checkBox28"
+                android:layout_width="22dp"
+                android:layout_height="wrap_content"
+                android:layout_column="2"
+                android:checked="false"
+                android:text="身体一侧突然麻木" />
+
+            <CheckBox
+                android:id="@+id/checkBox29"
+                android:layout_width="22dp"
+                android:layout_height="wrap_content"
+                android:layout_column="3"
+                android:checked="false"
+                android:text="颈部僵硬" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView />
+
+            <CheckBox
+                android:id="@+id/checkBox30"
+                android:layout_width="22dp"
+                android:layout_height="wrap_content"
+                android:layout_column="2"
+                android:checked="false"
+                android:text="发烧" />
+
+            <CheckBox
+                android:id="@+id/checkBox31"
+                android:layout_width="22dp"
+                android:layout_height="wrap_content"
+                android:layout_column="3"
+                android:checked="false"
+                android:text="咀嚼时下巴疼痛" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView />
+
+            <CheckBox
+                android:id="@+id/checkBox32"
+                android:layout_width="22dp"
+                android:layout_height="wrap_content"
+                android:layout_column="2"
+                android:checked="false"
+                android:text="头皮发疼" />
+
+            <CheckBox
+                android:id="@+id/checkBox33"
+                android:layout_width="22dp"
+                android:layout_height="wrap_content"
+                android:layout_column="3"
+                android:checked="false"
+                android:text="对光或噪音敏感" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView />
+
+            <CheckBox
+                android:id="@+id/checkBox34"
+                android:layout_width="22dp"
+                android:layout_height="wrap_content"
+                android:layout_column="2"
+                android:checked="false"
+                android:text="思维或意识出现异常" />
+
+            <CheckBox
+                android:id="@+id/checkBox35"
+                android:layout_width="22dp"
+                android:layout_height="wrap_content"
+                android:layout_column="3"
+                android:checked="false"
+                android:text="思维混乱" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView />
+
+            <CheckBox
+                android:id="@+id/checkBox36"
+                android:layout_width="22dp"
+                android:layout_height="wrap_content"
+                android:layout_column="2"
+                android:checked="false"
+                android:text="恶心或呕吐" />
+
+            <CheckBox
+                android:id="@+id/checkBox37"
+                android:layout_width="22dp"
+                android:layout_height="wrap_content"
+                android:layout_column="3"
+                android:checked="false"
+                android:text="手臂和臀部僵硬疼痛" />
+        </TableRow>
+
+        <TableRow android:gravity="center">
+
+            <Button
+                android:id="@+id/bt_jbcc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/lawngreen"
+                android:text="查询"
+                android:textColor="#ffffff"
+                android:textSize="30dp" />
+        </TableRow>
+    </TableLayout>
+</ScrollView>

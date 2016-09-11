@@ -1,0 +1,96 @@
+<resources>
+
+    <style name="personalRelativeLayoutSetting">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/parent_expandable_list_height</item>
+        <item name="android:padding">@dimen/margin</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <style name="personalRelativeLayoutIvOneSetting">
+        <item name="android:layout_width">30dp</item>
+        <item name="android:layout_height">30dp</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_marginLeft">15dp</item>
+    </style>
+
+    <style name="personalRelativeLayoutTvSetting">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:textSize">@dimen/list_below</item>
+    </style>
+
+    <style name="personalRelativeLayoutIvTwoSetting">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:src">@drawable/arrow_right</item>
+    </style>
+
+    <style name="table_btn_no">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:background">@drawable/table_btn_shape_no</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:text">约满</item>
+        <item name="android:clickable">false</item>
+    </style>
+
+    <style name="table_btn_yes">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:background">@drawable/table_btn_shape_yes</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:text">预约</item>
+    </style>
+
+
+    <style name="table_col_border">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">@drawable/table_border</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="btn_afternoon">
+
+    </style>
+
+    <style name="loading_dialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="windowActionBar">true</item>
+        <item name="windowNoTitle">false</item>
+    </style>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!-- PopupWindow左右弹出的效果 -->
+    <style name="popupWindowAnimationFade">
+        <item name="android:windowEnterAnimation">@anim/fade_in_down</item>
+        <item name="android:windowExitAnimation">@anim/fade_out_up</item>
+    </style>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:gravity="center"
+    android:background="@drawable/department_item_one"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_department_name"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:text="消化科"/>
+
+</LinearLayout>

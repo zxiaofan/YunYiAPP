@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ffffff"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    tools:context="com.zxiaofan.yunyi.activity.DrugPriceActivity">
+    <util.TitleBarUtils
+        android:id="@+id/titleBar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/bigButtonHeight" >
+    </util.TitleBarUtils>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="四川大学华西医院"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:id="@+id/textView36"
+            android:layout_marginLeft="10dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:textColor="#0000FF"
+            android:text="切换>"
+            android:id="@+id/textView37"
+            android:layout_alignBottom="@+id/textView36"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="18dp"
+            android:layout_marginEnd="18dp" />
+    </RelativeLayout>
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+        <FrameLayout
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:id="@+id/search_et_input"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginBottom="2dp"
+
+
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@drawable/search_edittext_shape"
+                android:textSize="18sp"
+                android:imeOptions="actionSearch"
+                android:inputType="text"
+                android:hint="医疗服务项目"/>
+
+            <ImageView
+                android:layout_marginBottom="2dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginRight="20dp"
+                android:src="@drawable/search_icon"
+                android:id="@+id/search_in"
+                android:layout_gravity="right|bottom"
+                android:layout_width="34dp"
+                android:layout_height="34dp"/>
+        </FrameLayout>
+
+
+    </LinearLayout>
+    <widget.RefreshLayout
+        android:id="@+id/refresh"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/listView2"
+        android:layout_gravity="center_horizontal" />
+    </widget.RefreshLayout>
+
+
+</LinearLayout>

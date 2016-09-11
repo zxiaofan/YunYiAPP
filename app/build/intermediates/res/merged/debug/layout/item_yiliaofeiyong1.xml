@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="阑尾炎"
+            android:textColor="#000000"
+            android:id="@+id/textView46"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="30dp"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="14dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="中国人民解放军医院"
+            android:textColor="#333333"
+            android:id="@+id/textView47"
+            android:layout_below="@+id/textView46"
+            android:layout_alignLeft="@+id/textView46"
+            android:layout_alignStart="@+id/textView46" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="普通外科"
+            android:textColor="#333333"
+            android:id="@+id/textView48"
+            android:layout_alignBottom="@+id/textView47"
+            android:layout_toRightOf="@+id/textView47"
+            android:layout_toEndOf="@+id/textView47"
+            android:layout_marginLeft="20dp"
+            android:layout_marginStart="20dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#333333"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="2015-09-24"
+            android:id="@+id/textView49"
+            android:layout_marginRight="28dp"
+            android:layout_marginEnd="28dp"
+            android:layout_above="@+id/textView48"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="收起"
+            android:textColor="#333333"
+            android:id="@+id/textView50"
+            android:layout_below="@+id/textView49"
+            android:layout_alignRight="@+id/textView49"
+            android:layout_alignEnd="@+id/textView49" />
+    </RelativeLayout>
+
+</LinearLayout>

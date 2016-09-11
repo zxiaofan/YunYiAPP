@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/tdoc"
+        android:layout_width="match_parent"
+        android:background="#F2F2F2"
+        android:text="医生（共搜索到N条结果）"
+        android:textSize="16sp"
+        android:textColor="@color/black"
+        android:layout_marginLeft="5dp"
+        android:gravity="center_vertical"
+        android:layout_height="40dp" />
+    <ListView
+        android:id="@+id/listview2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:layout_centerHorizontal="true"
+        >
+
+    </ListView>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#F2F2F2"
+        />
+    <TextView
+        android:id="@+id/sousuo2"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:background="@color/white"
+        android:text="点击查看更多相关医生"
+        android:textSize="16sp"
+        android:textColor="#333333"
+        />
+
+
+</LinearLayout>

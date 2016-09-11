@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:id="@+id/haoyuan"
+        android:layout_width="120dp"
+        android:layout_height="80dp"
+        android:background="#29AD68"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#333333"
+            android:text="张明瑞"
+            android:layout_marginTop="5dp"
+            android:id="@+id/textView58"
+            android:layout_above="@+id/textView59"
+            android:layout_alignLeft="@+id/textView59"
+            android:layout_alignStart="@+id/textView59" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#333333"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="主任医师"
+            android:layout_marginTop="5dp"
+            android:id="@+id/textView59"
+            android:layout_marginLeft="11dp"
+            android:layout_marginStart="11dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_marginTop="5dp"
+            android:text="约满"
+            android:textColor="#333333"
+            android:id="@+id/textView60"
+            android:layout_below="@+id/textView59"
+            android:layout_alignLeft="@+id/textView59"
+            android:layout_alignStart="@+id/textView59" />
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,58 @@
+package com.zxiaofan.yunyi.activity;
+
+import android.app.Activity;
+import android.os.Bundle;
+import android.util.Log;
+import android.view.View;
+import android.widget.Button;
+import android.widget.CheckBox;
+
+import com.zxiaofan.yunyi.R;
+import com.zxiaofan.yunyi.ServiceAPI;
+
+import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.List;
+
+import util.ToastUtil;
+
+/**
+ * Created by lenovo on 2016/6/1.
+ */
+public class A_jbzz_smmct extends Activity {
+    String TAG = "A_jbzz_smmct";
+    ServiceAPI api = new ServiceAPI();
+    int[] checkId = {R.id.checkBox1, R.id.checkBox2, R.id.checkBox3, R.id.checkBox4, R.id.checkBox5, R.id.checkBox6, R.id.checkBox7, R.id.checkBox8, R.id.checkBox9, R.id.checkBox10, R.id.checkBox11, R.id.checkBox12, R.id.checkBox13, R.id.checkBox14, R.id.checkBox15, R.id.checkBox16};
+    List<String> listSym = new ArrayList<>();
+    HashSet<String> set = new HashSet<>();
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        setContentView(R.layout.jbzz_smmct);
+        super.onCreate(savedInstanceState);
+
+        Button bt_jbcc = (Button) findViewById(R.id.bt_jbcc);
+        bt_jbcc.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                listSym.clear();
+                for (int id : checkId) {
+                    CheckBox checkBox = (CheckBox) findViewById(id);
+                    if (checkBox.isChecked()) {
+                        set.add((String) checkBox.getText());
+                    } else {
+//                                listSym.remove((String) checkBox.getText());
+                    }
+                }
+//                HashSet<String> set = new HashSet<>(listSym); // 利用hashSet去重
+//                listSym.clear();
+                listSym.addAll(set);
+                Log.i(TAG, "onCreate: " + listSym.toString());
+                if (listSym.isEmpty()) {
+                    ToastUtil.show(A_jbzz_smmct.this, "您尚未勾选任何症状！");
+                } else {
+                    api.queryDiseaseBySymptom(listSym.toString(), A_jbzz_smmct.this);
+                }
+            }
+        });
+    }
+}

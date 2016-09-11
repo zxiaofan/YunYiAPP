@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/lightcyan"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/Titletext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="3dp"
+            android:background="@color/lightskyblue"
+            android:gravity="center"
+            android:text="疾病自诊"
+            android:textColor="@color/actionsheet_blue"
+            android:textSize="21dp"
+            android:textStyle="bold" />
+
+        <TableRow>
+
+            <Button
+                android:id="@+id/bt_toutong"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="头痛"
+                android:background="@color/lightpink" />
+
+            <Button
+                android:id="@+id/bt_touyun"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="头晕" />
+
+            <Button
+                android:id="@+id/bt_bnwt"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="肚子疼" />
+        </TableRow>
+
+        <TableRow>
+
+            <Button
+                android:id="@+id/bt_yjbshfh"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="眼睛不适和发红" />
+
+            <Button
+                android:id="@+id/bt_tunyan"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="吞咽困难" />
+
+            <Button
+                android:id="@+id/bt_bnwt"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="泌尿问题" />
+        </TableRow>
+
+        <TableRow>
+
+            <Button
+                android:id="@+id/bt_fuxie"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="腹泻" />
+
+            <Button
+                android:id="@+id/bt_xinji"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="心悸"
+                android:background="@color/beige" />
+
+            <Button
+                android:id="@+id/bt_gpttnx"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="骨盆疼痛 (男)"
+                android:background="@color/chartreuse" />
+        </TableRow>
+
+        <TableRow>
+
+            <Button
+                android:id="@+id/bt_slwt"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="视力问题" />
+
+            <Button
+                android:id="@+id/bt_bisai"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="鼻塞"
+                android:background="@color/aqua" />
+
+            <Button
+                android:id="@+id/bt_bnwt"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="骨盆疼痛 (女)" />
+        </TableRow>
+
+        <TableRow>
+
+            <Button
+                android:id="@+id/bt_fuxie"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="呼吸急促" />
+
+            <Button
+                android:id="@+id/bt_bnwt"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="肩部疼痛" />
+
+            <Button
+                android:id="@+id/bt_bnwt"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="髋关节疼痛" />
+        </TableRow>
+
+        <TableRow>
+
+            <Button
+                android:id="@+id/bt_fuxie"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="胸痛" />
+
+            <Button
+                android:id="@+id/bt_yaotong"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="腰痛"
+                android:backgroundTint="#FFB6FAFA" />
+
+            <Button
+                android:id="@+id/bt_houlongt"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="喉咙痛"
+                android:background="#FFF7B0B0" />
+        </TableRow>
+
+        <TableRow>
+
+            <Button
+                android:id="@+id/bt_smmct"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="手麻木或刺痛"
+                android:background="@color/bg_title"/>
+
+            <Button
+                android:id="@+id/bt_bnwt"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="足部或腿部肿胀" />
+
+            <Button
+                android:id="@+id/bt_zbhgjtt"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="足部/踝关节疼痛"
+                android:background="@color/bg_title" />
+        </TableRow>
+
+        <TableRow>
+
+            <Button
+                android:id="@+id/bt_fuxie"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="吞咽困难" />
+
+            <Button
+                android:id="@+id/bt_bnwt"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="喘息" />
+
+            <Button
+                android:id="@+id/bt_bnwt"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="恶心或呕吐" />
+        </TableRow>
+
+        <TableRow>
+
+            <Button
+                android:id="@+id/bt_kesou"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="咳嗽"
+                android:background="#FFD1F993" />
+
+            <Button
+                android:id="@+id/bt_bnwt"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="大便带血" />
+
+            <Button
+                android:id="@+id/bt_bianmi"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="便秘"
+                android:background="#FFFDDFDF" />
+        </TableRow>
+
+        <TextView
+            android:id="@+id/Titletext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="3dp"
+            android:background="@color/lightskyblue"
+            android:gravity="center"
+            android:text="诊断结果供参考，最终结果以医师诊断为准"
+            android:textColor="@color/actionsheet_blue"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+    </TableLayout>
+</ScrollView>

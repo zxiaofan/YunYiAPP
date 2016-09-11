@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.zxiaofan.yunyi.login.LoginActivity">
+
+    <util.TitleBarUtils
+        android:id="@+id/titleBar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/bigButtonHeight" >
+    </util.TitleBarUtils>
+
+    <RelativeLayout
+        android:layout_marginTop="30dp"
+
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:layout_width="match_parent"
+        android:layout_height="40dp">
+        <!--android:digits="1234567890"-->
+        <EditText
+            android:id="@+id/et_account"
+            android:paddingLeft="10dp"
+            android:hint="用户名/手机号"
+            android:background="@drawable/et"
+
+            android:singleLine="true"
+            android:text="xiaofan"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:layout_width="match_parent"
+        android:layout_height="40dp">
+
+        <EditText
+            android:id="@+id/et_pwd"
+            android:hint="密码"
+            android:paddingLeft="10dp"
+            android:background="@drawable/et"
+            android:singleLine="true"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </RelativeLayout>
+
+    <Button
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:id="@+id/btn_submit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:background="@drawable/login_btn_submit"
+        android:text="立即登录" />
+
+    <Button
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/login_btn_register"
+        android:textColor="@color/white"
+        android:text="现在注册"
+        android:id="@+id/btn_register" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/zhaohuimima"
+        android:layout_marginTop="20dp"
+        android:textColor="#333333"
+        android:textSize="14sp"
+        android:text="点击找回密码"
+        android:layout_gravity="center"
+        />
+
+
+</LinearLayout>
